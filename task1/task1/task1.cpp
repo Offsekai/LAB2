@@ -14,7 +14,7 @@ int main() {
     cout << "Number " << number << " is bounded from below by even number: " << lower << ", and bounded from above by even number: " << upper; // Вывод результата
     return 0;
 
-    // 07.12.24 - new text 11111111111
+    // 07.12.24 - new text 11111111111 Chebotarenko
     //Changed main file by adding a commentary
     //aefijoihaefiohsaegihospegohspegohipgs
     //Another new comment from local repos
