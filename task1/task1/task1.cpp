@@ -13,4 +13,6 @@ int main() {
 
     cout << "Number " << number << " is bounded from below by even number: " << lower << ", and bounded from above by even number: " << upper; // Вывод результата
     return 0;
+
+    // 07.12.24
 }
